@@ -1,0 +1,6 @@
+# Ignore the main environment file
+.env
+
+# Ignore environment variants (e.g., .env.local, .env.development.local)
+.env.*
+.env.local

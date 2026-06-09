@@ -20,4 +20,4 @@ https://drive.google.com/drive/folders/1GITRH2hp63bBxpfVIkbiEvvSGBMhtra_?usp=sha
 
 ### Screenshot of Kaggle Leaderboard Placement
 
-!("Screenshot 2026-06-09 at 11.15.11 AM.png")
+!(kaggle_leaderboard_ss.png)

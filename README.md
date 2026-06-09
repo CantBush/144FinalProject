@@ -20,4 +20,4 @@ https://drive.google.com/drive/folders/1GITRH2hp63bBxpfVIkbiEvvSGBMhtra_?usp=sha
 
 ### Screenshot of Kaggle Leaderboard Placement
 
-!(kaggle_leaderboard_ss.png)
+![screenshot of kaggle leaderboard submission](kaggle_leaderboard_ss.png)

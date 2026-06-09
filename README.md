@@ -19,3 +19,5 @@ https://docs.google.com/document/d/1CxocJlXFPNqODtLj7CC_aOccgh1WrJvsbWQzKF92XPE/
 https://drive.google.com/drive/folders/1GITRH2hp63bBxpfVIkbiEvvSGBMhtra_?usp=sharing
 
 ### Screenshot of Kaggle Leaderboard Placement
+
+!("Screenshot 2026-06-09 at 11.15.11 AM.png")

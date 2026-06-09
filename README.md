@@ -1,4 +1,5 @@
 # How To Use The Notebooks As Intended
+## (Inside The A100_Ensemble Directory)
 
 ### EfficientNet.ipynb & SWINbase.ipynb
 Run each cell sequentially. In the configuration cell, you can toggle the USE_VALIDATION flag to true if you would like to train with an 80/20 train/val split. Set to false if you would like to train on 100% of the training set(we only used this to generate our final submission).

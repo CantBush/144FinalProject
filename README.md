@@ -14,3 +14,8 @@ We ran our models on a VM using runpod.io. Our VM had an Nvidia A100SXM GPU with
 
 ### Link To Report
 https://docs.google.com/document/d/1CxocJlXFPNqODtLj7CC_aOccgh1WrJvsbWQzKF92XPE/edit?usp=sharing
+
+### Link To Trained Model Weights
+https://drive.google.com/drive/folders/1GITRH2hp63bBxpfVIkbiEvvSGBMhtra_?usp=sharing
+
+### Screenshot of Kaggle Leaderboard Placement

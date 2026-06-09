@@ -12,5 +12,12 @@ This notebook first checks if the model weights are present, then runs TTA infer
 ### Important Notes
 We ran our models on a VM using runpod.io. Our VM had an Nvidia A100SXM GPU with a 32 core CPU. This is why we have large image resolutions and batchsizes, as well as flags on our dataloaders to increase the number of workers and pre-fetch more images.
 
-### Link To Report
+### Link To Report In Case PDF Doesn't Work
 https://docs.google.com/document/d/1CxocJlXFPNqODtLj7CC_aOccgh1WrJvsbWQzKF92XPE/edit?usp=sharing
+
+### Link To Trained Model Weights
+https://drive.google.com/drive/folders/1GITRH2hp63bBxpfVIkbiEvvSGBMhtra_?usp=sharing
+
+### Screenshot of Kaggle Leaderboard Placement
+
+![screenshot of kaggle leaderboard submission](kaggle_leaderboard_ss.png)
